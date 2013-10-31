@@ -1,5 +1,7 @@
-notepadplusplus.go
+Notepad++ (npp) for golang
 ==================
+
+### theme
 
 zenburn-style syntax highlighting and code folding for go in notepad++
 
